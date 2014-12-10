@@ -1,8 +1,10 @@
 Rails.application.routes.draw do
   match "/index" => "simandlcore#index", via: :get
   match "/resume" => "simandlcore#resume", via: :get
+  match "/about" => "simandlcore#about", via: :get
 
   get 'simandlcore/resume'
+  get 'simandlcore/about'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
