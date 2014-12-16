@@ -3,7 +3,16 @@ class SimandlcoreController < ApplicationController
     @title = "Home"
   end
 
+  def about
+    @title = "About"
+  end
+
   def resume
     @title = "Resume"
   end
+  
+  def privacy
+    @privacy = "Privacy"
+  end
+
 end
