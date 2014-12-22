@@ -20,4 +20,4 @@
 /config/deploy/*
 /config/deploy.rb
 
-.c9/
+**/.c9
