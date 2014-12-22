@@ -23,4 +23,8 @@
 /config/deploy/*
 /config/deploy.rb
 
+<<<<<<< HEAD
 **/.c9
+=======
+**/.c9
+>>>>>>> 852144fa969b2df19ac4e00d05ce3cebf4dc0f54
