@@ -22,6 +22,7 @@
 
 /config/deploy/*
 /config/deploy.rb
+/config/capistrano_database.rb
 
 <<<<<<< HEAD
 **/.c9
